@@ -1,12 +1,12 @@
-🚀 ImagineAI: Creative Image Generation with Stable Diffusion 🎨<br>
+# 🚀 ImagineAI: Creative Image Generation with Stable Diffusion 🎨<br>
 Welcome to ImagineAI, where creativity meets cutting-edge AI! This project uses Stable Diffusion 2.1 to turn text prompts into stunning visuals. Whether you're exploring imaginative ideas or creating visuals for professional use, ImagineAI offers an intuitive and powerful platform for AI-generated imagery.<br>
 
 **✨Key Features:** <br>
-🎨 Text-to-Image Magic: Generate beautiful visuals from simple text descriptions using Stable Diffusion 2.1.<br>
-🎯 Customizable Prompts: Experiment with scenarios like astronauts on Mars, fantasy landscapes, or cultural celebrations.<br>
-⚡ High-Performance GPU Acceleration: Harness the power of CUDA for faster and more efficient image generation.<br>
-🔧 Hyperparameter Control: Adjust guidance scales, resolution, and inference steps to achieve desired results.<br>
-🖼 Save & Share: Download your creations effortlessly and use them for personal or professional purposes.<br>
+  - 🎨 Text-to-Image Magic: Generate beautiful visuals from simple text descriptions using Stable Diffusion 2.1.<br>
+  - 🎯 Customizable Prompts: Experiment with scenarios like astronauts on Mars, fantasy landscapes, or cultural celebrations.<br>
+  - ⚡ High-Performance GPU Acceleration: Harness the power of CUDA for faster and more efficient image generation.<br>
+  - 🔧 Hyperparameter Control: Adjust guidance scales, resolution, and inference steps to achieve desired results.<br>
+  - 🖼 Save & Share: Download your creations effortlessly and use them for personal or professional purposes.<br>
 
 **🚀 Technologies Used**<br>
 Stable Diffusion 2.1: State-of-the-art text-to-image generation model.<br>
